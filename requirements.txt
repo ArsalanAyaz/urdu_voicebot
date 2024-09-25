@@ -1,0 +1,9 @@
+streamlit
+speech-recognition
+gTTs
+python-IO
+pydub
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
